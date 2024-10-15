@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gfrabelo)](https://git.io/streak-stats)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gfrabelo"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfrabelo&layout=compact)
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfrabelo&layout=compact"/>
 
 </div>
 
