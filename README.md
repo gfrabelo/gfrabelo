@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gfrabelo"/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <h3>Hard Skills</h3>
 
