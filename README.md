@@ -8,12 +8,6 @@
 
 <div align="left">
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfrabelo&layout=compact"/>
-
-</div>
-
-<div align="left">
-
 <h3>Hard Skills</h3>
 
 <img align="center" height="80px" width="80px" src="https://github.com/user-attachments/assets/1a5bc5f3-81c5-40fd-8398-a928d2bddccb">
